@@ -1,0 +1,24 @@
+.pie-chart-cont {
+    margin-left: 40px;
+    margin-top: 30px;
+    width: 500px;
+}
+.pie-chart-top-cont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pie-chart-main-text {
+    font-family: "Roboto";
+    color: #000000;
+    font-size: 25px;
+}
+
+.pie-chart-select-elem {
+    background-color: #95e625;
+    border: 0px;
+    outline: none;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+}

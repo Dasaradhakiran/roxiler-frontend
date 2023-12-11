@@ -1,0 +1,26 @@
+.bar-chart-cont {
+    margin-top: 30px;
+    width: 800px;
+    height: 65vh;
+}
+
+.bar-chart-top-cont {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 780px;
+}
+.bar-chart-main-text {
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #000000;
+}
+
+.bar-chart-select-elem {
+    background-color: #95e625;
+    border: 0px;
+    outline: none;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+}

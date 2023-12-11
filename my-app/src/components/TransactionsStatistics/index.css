@@ -1,0 +1,54 @@
+.statistics-cont {
+    margin-left: 40px;
+    width: 500px;
+}
+.statistics-head {
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #000000;
+}
+.statistics-top-cont {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.statistics-select-elem {
+    background-color: #f0b40e;
+    border: 0px;
+    outline: none;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.statistics-bottom-cont {
+    background-color: #faf066;
+    padding: 15px;
+    border-radius: 15px;
+    margin-top: 50px;
+    padding-bottom: 25px;
+    width: 400px;
+}
+
+.statistics-text-cont {
+    display: flex;
+    align-items: center;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+.statistics-text {
+    font-family: "Roboto";
+    color: #000000;
+    font-size: 19px;
+    width: 165px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.statistics-sub-text {
+    font-family: "Roboto";
+    color: #000000;
+    font-size: 17px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}

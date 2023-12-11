@@ -1,0 +1,115 @@
+.table-main-cont {
+    width: 800px;
+    height: 79vh;
+}
+
+.table-head {
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.table-search-main-cont {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.table-input-elem {
+    background-color: #faf066;
+    outline: none;
+    border: 0px;
+    border-radius: 5px;
+    width: 180px;
+    height: 30px;
+    padding-left: 5px;
+    font-family: "Roboto";
+}
+.table-select-elem {
+    background-color: #f0b40e;
+    border: 0px;
+    outline: none;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.table-head-column {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #000000;
+    background-color: #faf066;
+}
+.table-head-column-small-text {
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+    height: 26px;
+    width: 61px;
+    padding: 0px;
+    margin: 0px;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 5px;
+}
+.table-head-column-large-text {
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+    height: 26px;
+    width: 142px;
+    padding: 0px;
+    margin: 0px;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.table-column {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #000000;
+    background-color: #faf066;
+}
+.table-column-small-text {
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+    width: 58px;
+    display: inline;
+    overflow-wrap: break-word;
+    padding: 0px;
+    margin: 0px;
+    padding-left: 3px;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+.table-column-large-text {
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+    width: 139px;
+    display: inline;
+    overflow-wrap: break-word;
+    padding: 0px;
+    margin: 0px;
+    padding-left: 3px;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+.table-image {
+    width: 80px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.table-cont {
+    width: 765px;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+}
+.table-temp-cont {
+    margin-top: 20px;
+    height: 60vh;
+    overflow: auto;
+}

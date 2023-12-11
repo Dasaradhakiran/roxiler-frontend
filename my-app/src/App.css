@@ -1,0 +1,12 @@
+.app {
+  background-color: #b7eaf8;
+  padding: 15px;
+  padding-top: 10px;
+  min-height: 100vh;
+  min-width: 100vw;
+  padding-left: 25px;
+}
+
+.app-sub-cont {
+  display: flex;
+}
